@@ -1,0 +1,2 @@
+# ignore macOS desktop config file
+*.DS_Store
